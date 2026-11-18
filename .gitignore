@@ -2,3 +2,7 @@ node_modules
 .next
 .env*
 !.env.example
+<<<<<<< HEAD
+=======
+.env.local
+>>>>>>> 0a607efbc83a49838ea147ee58a72d6a20f2b428
